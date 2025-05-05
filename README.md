@@ -1,4 +1,9 @@
-# GitHub Copilot
+# Accelerate with GitHub Copilot
+
+![](https://github.com/palomapeclatg/invillia-exercicio-github-copilot/actions/workflows/1-preparing.yml/badge.svg)
+![](https://github.com/palomapeclatg/invillia-exercicio-github-copilot/actions/workflows/2-first-introduction.yml/badge.svg)
+![](https://github.com/palomapeclatg/invillia-exercicio-github-copilot/actions/workflows/3-copilot-edits.yml/badge.svg)
+![](https://github.com/palomapeclatg/invillia-exercicio-github-copilot/actions/workflows/4-copilot-on-github.yml/badge.svg) GitHub Copilot
 
 ![](https://github.com/palomapeclatg/invillia-exercicio-github-copilot/actions/workflows/1-preparing.yml/badge.svg)
 ![](https://github.com/palomapeclatg/invillia-exercicio-github-copilot/actions/workflows/2-first-introduction.yml/badge.svg)
